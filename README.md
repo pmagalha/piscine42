@@ -1,4 +1,4 @@
-# Description
+# What you need to know about the piscine
 
 42 School is a **FREE** programming school that defies traditional education, by enforcing a self-taught and peer-to-peer methodology, which I found to be very suitable for me. There are no assigned teachers in this school and no schedule. We create our own organization and make our own rules (well, sort of... more on that later). The assigned projects must be completed in any way throughout these very intense weeks so the internet, Google, Bing, Chat GPT, the bible, a person next to you or on a corner of the room are all important and valid sources of information.
 
