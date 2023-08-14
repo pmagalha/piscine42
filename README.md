@@ -7,6 +7,7 @@ The code contained in this folder concerns all the work I've done throughout the
  - `Piscine Tips`:
 - Don't be shy. Talk to your peers, they are your main support network throughout the experience and source of valuable knowledge, as you will be for them.
 - Know and respect the rules. You don't want to waste precious time of studying doing community service, as I did, for being silly and forgetting to NOT PLACE A BOTTLE OF WATER ON THE WORKSPACE. This duck was a prodcut of my time spent in community service. ![367430862_845678193939000_5328599984402720079_n](https://github.com/pmagalha/piscine42/assets/136360645/c05e9275-cc7c-45d7-8fcc-5b7554768477)
+
 I had fun doing it, tbh.
 - Meal prep. This tip saved my a** during the piscine and kept me healthy, well-nourished and strong enough for my brain not to give out during these intense weeks.
 - Don't get stunlocked by the difficulty of a specific exercise. Just push through when you are stuck, move forward and you will notice that the first exercises of the subjects are always easier. Do as many as you can, and know that it is better to move forward and then get back to the hardest exercises later. You will learn more this way.
