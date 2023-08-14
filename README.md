@@ -1,5 +1,5 @@
 # Description
-[42-Porto-420x140](https://github.com/pmagalha/piscine42/assets/136360645/77b74965-02c6-4be5-9fce-52cf3a49340d)
+![image][42-Porto-420x140](https://github.com/pmagalha/piscine42/assets/136360645/77b74965-02c6-4be5-9fce-52cf3a49340d)
 
 42 School is a **FREE** programming school that defies traditional education, by enforcing the peer-to-peer methodology, where you learn from and with your peers. There are no assigned teachers in this school. If you're not sure about something, Google, the person next you or on the bottom of the room are your best options. Just make sure you learn how to learn!
 
